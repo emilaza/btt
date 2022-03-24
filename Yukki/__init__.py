@@ -105,7 +105,7 @@ async def initiate_bot():
     )
     console.print(header)
     with console.status(
-        "[magenta] Talia Winamp Müzik Botu Önyükleme...",
+        "[magenta] Emily Müzik Botu Önyükleme...",
     ) as status:
         console.print("┌ [red]İstemcileri önyükleme...\n")
         await app.start()
