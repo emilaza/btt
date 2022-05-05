@@ -486,5 +486,5 @@ async def start_markup_check(_, CallbackQuery):
     if command == "DIT":
         diske = psutil.disk_usage("/").percent
         await CallbackQuery.answer(
-            f"Efsane Music Disk Kullanımı: {diske}%", show_alert=True
+            f"Emily Music Disk Kullanımı: {diske}%", show_alert=True
         )
