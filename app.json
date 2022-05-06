@@ -69,7 +69,7 @@
     },
     "START_IMG_URL": {
       "description": "Telegraph Image Link for the Private Start Message",
-      "value": "https://te.legra.ph/file/f5df7045b5b1896f69734.jpg",
+      "value": "https://telegra.ph//file/bf1390439d28e24536772.jpg",
       "required": true
     },
     "STRING_SESSION1": {
